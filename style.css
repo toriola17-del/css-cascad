@@ -1,0 +1,16 @@
+#outer-box {
+  background-color: green;
+}
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+.inner-box {
+  background-color: red;
+}
+.P {
+  color: white;
+}
+.white-text {
+  color: white;
+}
